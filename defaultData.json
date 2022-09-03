@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "gender": "female",
+        "name": "Maureen Carr",
+        "contact": "121 502-39842",
+        "address": "Bern, Switzerland",
+        "photoUrl": "https://randomuser.me/api/portraits/women/47.jpg"
+    },
+    {
+        "id": 2,
+        "gender": "male",
+        "name": "Javier Shaw",
+        "contact": "32 543-675",
+        "address": "London, UK",
+        "photoUrl": "https://randomuser.me/api/portraits/men/83.jpg"
+    },
+    {
+        "id": 3,
+        "gender": "male",
+        "name": "Rick Jordan",
+        "contact": "1345 768-56",
+        "address": "Ankara, Turkey",
+        "photoUrl": "https://randomuser.me/api/portraits/men/19.jpg"
+    },
+    {
+        "id": 4,
+        "gender": "female",
+        "name": "Bessie Fletcher",
+        "contact": "123 45-3342",
+        "address": "Australia",
+        "photoUrl": "https://randomuser.me/api/portraits/women/8.jpg"
+    },
+    {
+        "id": 5,
+        "gender": "female",
+        "name": "Ruby Myers",
+        "contact": "45698 439827",
+        "address": "Kathmandu, Nepal",
+        "photoUrl": "https://randomuser.me/api/portraits/women/27.jpg"
+    },
+    {
+        "id": 6,
+        "gender": "female",
+        "name": "Terra Lee",
+        "contact": "2948 9842-423",
+        "address": "9052 Central St",
+        "photoUrl": "https://randomuser.me/api/portraits/women/40.jpg"
+    },
+    {
+        "id": 7,
+        "gender": "male",
+        "name": "Everett Martin",
+        "contact": "3453 7716900",
+        "address": "7820 Crockett St",
+        "photoUrl": "https://randomuser.me/api/portraits/men/35.jpg"
+    },
+    {
+        "id": 8,
+        "gender": "female",
+        "name": "Roberta Alexander",
+        "contact": "121 502-39842",
+        "address": "W 6th St",
+        "photoUrl": "https://randomuser.me/api/portraits/women/34.jpg"
+    },
+    {
+        "id": 9,
+        "gender": "male",
+        "name": "Elmer Wilson",
+        "contact": "5423 32589-53245",
+        "address": "Smokey Ln",
+        "photoUrl": "https://randomuser.me/api/portraits/men/3.jpg"
+    },
+    {
+        "id": 10,
+        "gender": "male",
+        "name": "Leon Fleming",
+        "contact": "3409  0523-532",
+        "address": "390 Lake view St",
+        "photoUrl": "https://randomuser.me/api/portraits/men/83.jpg"
+    }
+]
